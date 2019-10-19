@@ -4,3 +4,9 @@
     font-size: 3vh;
     font-weight: bold;
 }
+
+button {
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
